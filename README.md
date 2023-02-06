@@ -3,7 +3,7 @@
 **Simple course goal list made with React.**
 
 ## 💻 Screenshot
-[<img src="react-goal-list-screenshot.webp" alt="Screenshot of the React Goal List app" width="480px">](https://dawidlehai-react-goal-list.netlify.app/ 'Live preview')
+[<img src="react-goal-list-screenshot.webp" alt="Screenshot of the React Goal List app" width="400px">](https://dawidlehai-react-goal-list.netlify.app/ 'Live preview')
 
 ## 🛠️ Tools and technologies
 `React` `CSS modules` `VS Code`
